@@ -1,0 +1,64 @@
+.dark-theme-bg {
+    background-color: black;
+
+}
+
+.light-theme-bg {
+    background-color: whitesmoke;
+}
+
+.fontColorW {
+    color: whitesmoke;
+}
+
+.fontColorD {
+    color: black;
+}
+
+.text {
+
+    font-size: 220%;
+    padding-left: 50px;
+}
+
+
+.nav-text {
+
+    font-size: 120%;
+}
+
+.nav-text-light-theme {
+    color: black;
+    font-size: 120%;
+}
+
+img.r_img {
+    border-radius: 30px 30px 30px 30px;
+}
+
+.top_bar {
+    padding-left: 80px;
+}
+
+.post-info {
+    padding-left: 50px;
+    font-size: 105%;
+    padding-right: 50px;
+}
+
+.post_name {
+    font-size: 220%;
+    padding-left: 50px;
+}
+
+
+
+
+
+.wp-block-quote {
+    border: 0ch;
+    background-color: grey;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
